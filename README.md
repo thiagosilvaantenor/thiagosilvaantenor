@@ -1,5 +1,5 @@
 ### Olá, eu sou o Thiago Antenor ✌🏾
-- ☕ Aprendendo JAVA
+- Em aprendizado contínuo 🚀
 
  <div align="center">
       <a href="https://www.linkedin.com/in/thiago-antenor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

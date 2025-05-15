@@ -13,7 +13,7 @@
 <a href="https://github.com/thiagosilvaantenor">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosilvaantenor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilvaantenor&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilvaantenor&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
